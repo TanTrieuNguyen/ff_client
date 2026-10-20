@@ -1,0 +1,8 @@
+[
+  {
+    "enabled": true,
+    "name": "GitHub Raw mirror - license unchanged",
+    "url": ".*",
+    "script": "function onRequest(a,b){return b;}function onResponse(a,b,c){try{if(b.path&&b.path.indexOf(\"/live\")===0&&typeof c.body===\"string\"){var o=JSON.parse(c.body);if(o&&typeof o===\"object\"&&!Array.isArray(o)&&Object.prototype.hasOwnProperty.call(o,\"abhotupdate_cdn_url\")){o.abhotupdate_cdn_url=\"https://raw.githubusercontent.com/TanTrieuNguyen/ff_client/12733c4ecf82da3771544748b0027fd5880ad4d9/raw/\";c.body=JSON.stringify(o);}}}catch(e){}return c;}"
+  }
+]
