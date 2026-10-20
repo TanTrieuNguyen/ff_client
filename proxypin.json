@@ -1,0 +1,8 @@
+[
+  {
+    "enabled": false,
+    "name": "Mirror not deployed - generate with actual Render URL",
+    "url": ".*",
+    "script": "function onRequest(a,b){return b;}function onResponse(a,b,c){return c;}"
+  }
+]

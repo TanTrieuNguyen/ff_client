@@ -1,0 +1,509 @@
+{
+  "licenseModified": false,
+  "files": [
+    {
+      "route": "/ios/1.132.11/fileinfo",
+      "file": "fileinfo",
+      "size": 8153,
+      "sha256": "c2b5ec0ff37fc295c40eaa5120d232cf621abd0cfbf28aad3dcc56f1cb74fd11",
+      "contentType": "text/plain; charset=utf-8"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/weaponskin_propertyscore_6289c4b2.VzrbBS8~2BQ3mB5pUtVpm2Iwt2soU~3D",
+      "file": "assets/weaponskin_propertyscore_6289c4b2.VzrbBS8~2BQ3mB5pUtVpm2Iwt2soU~3D",
+      "size": 13823,
+      "sha256": "ed4a9a734fd0e03f5092714d290f64e8c65da5061394a89832f64078bde87430",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ff_vfx_ingame_male_cos_bat25_top_3p_8b5e552e.EMUHLCFI0D~2BXBIR5OAVWAXzxL1Q~3D",
+      "file": "assets/ff_vfx_ingame_male_cos_bat25_top_3p_8b5e552e.EMUHLCFI0D~2BXBIR5OAVWAXzxL1Q~3D",
+      "size": 105309,
+      "sha256": "3af222a518e5261021e1ea7c3e9d7a69a3be64e89b8822aa278dc9020d0c4cbb",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/weaponskin_property_911e4554.REPyr3553UmnUAGz7bnAjcMcFdM~3D",
+      "file": "assets/weaponskin_property_911e4554.REPyr3553UmnUAGz7bnAjcMcFdM~3D",
+      "size": 20868,
+      "sha256": "c3e04a54181057438ec1bd18e00987773901a5961efebd3226e15a7f2b0d529d",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/activeskill_52a2647c.WxSGBCEm56EhOtm~2FLS~2BGHDMMcVI~3D",
+      "file": "assets/activeskill_52a2647c.WxSGBCEm56EhOtm~2FLS~2BGHDMMcVI~3D",
+      "size": 3770,
+      "sha256": "053f91d68651014b04a9b7b2da4b451b787068df9ee73e3c75ac02610223c39f",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/workshopitemlibrary_13645480.QtKqWduiTG1XNzAOXZTCt2MJpbQ~3D",
+      "file": "assets/workshopitemlibrary_13645480.QtKqWduiTG1XNzAOXZTCt2MJpbQ~3D",
+      "size": 8422,
+      "sha256": "10a34d2a663a5f3d768e4a14578d101ea7a970e03d941be9e43cdcb30bfe7355",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/collectionquickchat_4e203aa6.aHCl5fq3uWmKXEnNXDLSYEleSQY~3D",
+      "file": "assets/collectionquickchat_4e203aa6.aHCl5fq3uWmKXEnNXDLSYEleSQY~3D",
+      "size": 12437,
+      "sha256": "ddf0af0b46d3f1901db05bb9fab0de63ffaa3596a1e03566c5256d4133103c74",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/itemhotfix_90e164c0.v4fxpxSCFev5i~2FuxUqOGaaM9~2BGE~3D",
+      "file": "assets/itemhotfix_90e164c0.v4fxpxSCFev5i~2FuxUqOGaaM9~2BGE~3D",
+      "size": 1590,
+      "sha256": "9943a5e6afb946fa8e04b00c50ae4b50b447c7cffa83eccf558645dd62ac2a68",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ff_vfx_ingame_female_cos_bat25_top_3p_0be65117.1e4VNn0LwI12rZ8czAKsRkFi8oc~3D",
+      "file": "assets/ff_vfx_ingame_female_cos_bat25_top_3p_0be65117.1e4VNn0LwI12rZ8czAKsRkFi8oc~3D",
+      "size": 105346,
+      "sha256": "855629d6346b6fde79e2bb4f8fdd9dc1fceea8502487e0797491617fb435da8e",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/male_tailor_killdead_7e5ac9a8.TnyvCd4Bj~2B~2Bl~2BVRHk7Wm~2Fyr3rsM~3D",
+      "file": "assets/male_tailor_killdead_7e5ac9a8.TnyvCd4Bj~2B~2Bl~2BVRHk7Wm~2Fyr3rsM~3D",
+      "size": 1579442,
+      "sha256": "1b515cca09e9b1ee48578dd736e57dbba11c5611975f891981a52e6a26b68d0d",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/loading_quality_object_sa_reskin_sys_5c300452.baZPgM8~2BZxoET7k~2FKMqoNhztg~2Bo~3D",
+      "file": "assets/loading_quality_object_sa_reskin_sys_5c300452.baZPgM8~2BZxoET7k~2FKMqoNhztg~2Bo~3D",
+      "size": 4195087,
+      "sha256": "14dd35742ad652cc1a7805ecb58e96f5dc5772a154da19e934882f49c8f4f9e4",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/bgm_ob55_storm26_lobby_24878544.3a5ghfPRejtZfWH~2FeRIWOGpEFbs~3D",
+      "file": "assets/bgm_ob55_storm26_lobby_24878544.3a5ghfPRejtZfWH~2FeRIWOGpEFbs~3D",
+      "size": 759616,
+      "sha256": "0d9c5337984c4c80ffd2a742f4176f688e2fd954486ceeae0ed3214d5a87be02",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/collectionmusic_275724f8.j5qi5sPyhDvyIT91seZ9dagtRDM~3D",
+      "file": "assets/collectionmusic_275724f8.j5qi5sPyhDvyIT91seZ9dagtRDM~3D",
+      "size": 2537,
+      "sha256": "8e14b36448d2df628cb084a107bdf786808afc16588e3e817daa6835c35bd749",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/uifx_sa_reskin_sys_lobby_010b4675.anpPPMVlGNs7lhX1jbSppGGqXiY~3D",
+      "file": "assets/uifx_sa_reskin_sys_lobby_010b4675.anpPPMVlGNs7lhX1jbSppGGqXiY~3D",
+      "size": 1992995,
+      "sha256": "ab0e345c0ab4c55b3456dfb9c4515126723decd8d354a172b82563148f4f26b3",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ugcshopitem_77dba9f8.7gQhI~2B8LOPTAPMbBGoYMJ8AxbHA~3D",
+      "file": "assets/ugcshopitem_77dba9f8.7gQhI~2B8LOPTAPMbBGoYMJ8AxbHA~3D",
+      "size": 2667,
+      "sha256": "2a2335f758cabb4f8754150168cd3b4a269e58fbdae18591ed92aaa0b71c0354",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/platformpromotionproduct_67372faa.WxVjQHfSPCpbKPiXrgpz9JBgbgI~3D",
+      "file": "assets/platformpromotionproduct_67372faa.WxVjQHfSPCpbKPiXrgpz9JBgbgI~3D",
+      "size": 1178,
+      "sha256": "ecd43e9fcb29e35ab92ce1b7e8a6df531bc6b86700688b38225306829df6bcdf",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/uimysteryshopawarditem_6e122d34.qp2eWTin68gNjWj60sP3WLY8gJo~3D",
+      "file": "assets/uimysteryshopawarditem_6e122d34.qp2eWTin68gNjWj60sP3WLY8gJo~3D",
+      "size": 2608490,
+      "sha256": "943fdefd3922f42ae59fbc3f1c664ee909732a6f9b849f203868049e4545807e",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ob55_1.M~2B2FmMzCZLCwdasMJ6jIaAiXd94~3D",
+      "file": "assets/ob55_1.M~2B2FmMzCZLCwdasMJ6jIaAiXd94~3D",
+      "size": 2253984,
+      "sha256": "752bafb43e7213a2e2b90ef7050677743597abf75bba47bb4a6ff3653978224a",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/weaponsgeneratortypeconfig_23291683.SrkdXymfouUvPTYut~2FAR9mezlt4~3D",
+      "file": "assets/weaponsgeneratortypeconfig_23291683.SrkdXymfouUvPTYut~2FAR9mezlt4~3D",
+      "size": 3883,
+      "sha256": "47d1a57a0d885a36f7651d533436b042a6bf8e9e75cc346187c037b43669e4b4",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/locurl_9d8100e6.6rBvbzwHfGOBOXd0gitCLZTtgyI~3D",
+      "file": "assets/locurl_9d8100e6.6rBvbzwHfGOBOXd0gitCLZTtgyI~3D",
+      "size": 1276,
+      "sha256": "d6dc0e59e08d4919b404950810606df74357a87511b6f769e9a84360896e719c",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/itemskillcard_91e69645.FPbiJoI7Eev2K6LIhijSnZya~2F9U~3D",
+      "file": "assets/itemskillcard_91e69645.FPbiJoI7Eev2K6LIhijSnZya~2F9U~3D",
+      "size": 1735,
+      "sha256": "a60d91e73acd92ec4e0d0c7b419c8ab1f0548226034cd714804e1b64e9e22be0",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/weapontable_545b63bd.f2RqASCLD5XCvegAmNpS1lBgTIE~3D",
+      "file": "assets/weapontable_545b63bd.f2RqASCLD5XCvegAmNpS1lBgTIE~3D",
+      "size": 60099,
+      "sha256": "dae04ebac30760648e215ec7dbd6db4f96862f143cbfc39d02c6869526ecf685",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/paradise_nb_fix_col_e5bd6fd7.O2Pp2Ng68PnLDmwrZ1MFHbXvWz8~3D",
+      "file": "assets/paradise_nb_fix_col_e5bd6fd7.O2Pp2Ng68PnLDmwrZ1MFHbXvWz8~3D",
+      "size": 4291,
+      "sha256": "8b7ff3c05a764ea9b1701b92f8be36976a9d1acdb6e9473b370f78fdabc9dc7b",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/iconcdnmap_94e204df.JRvy3h0MljUC88V4P1p~2BXrHEYLI~3D",
+      "file": "assets/iconcdnmap_94e204df.JRvy3h0MljUC88V4P1p~2BXrHEYLI~3D",
+      "size": 1882,
+      "sha256": "111bd8291bc3365d83fc9ebcfb78f7436c4cc59ccc2a3664b8361ee64e9e275f",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/geoipcountry_9bdc03b9.unRLhtwH5RT2RdLszehgUOQCvBA~3D",
+      "file": "assets/geoipcountry_9bdc03b9.unRLhtwH5RT2RdLszehgUOQCvBA~3D",
+      "size": 1331,
+      "sha256": "54ad5f7a3c7520a23ad1575f0b824e5b11d27c7632b49ab08bc3115ab27bc439",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/roomcreate_csshop_759d9d75.APaz8TRL8ac~2FS1dtmBOKYBPn258~3D",
+      "file": "assets/roomcreate_csshop_759d9d75.APaz8TRL8ac~2FS1dtmBOKYBPn258~3D",
+      "size": 2683,
+      "sha256": "81c8b1b71a46a6d50cddc5a00acf597fdb7d93b7074067e13601929d16897d98",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/loginregionqualitybg_29688d04.po~2BZmCwaZk6qTppxsw8AAx4S6Ow~3D",
+      "file": "assets/loginregionqualitybg_29688d04.po~2BZmCwaZk6qTppxsw8AAx4S6Ow~3D",
+      "size": 1628,
+      "sha256": "b320a1a60d65de536545f4c05de0871134e5fa1611d1e6489a75edff832f8821",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/bgm_ob55_th_ffws_lobby_24555a36.snOfCexxYcg5PMNJnheJ3NO8s7o~3D",
+      "file": "assets/bgm_ob55_th_ffws_lobby_24555a36.snOfCexxYcg5PMNJnheJ3NO8s7o~3D",
+      "size": 1234401,
+      "sha256": "2bb891ffb986b8b24db126353865f87e4baec6d05d83b1742e0274c3aa0c40ce",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/uimysteryshopbigawarditem_c2fd14b6.rjMaO3arr2SQ18NaLYB9~2Fyi112Q~3D",
+      "file": "assets/uimysteryshopbigawarditem_c2fd14b6.rjMaO3arr2SQ18NaLYB9~2Fyi112Q~3D",
+      "size": 1652208,
+      "sha256": "4dadcb631f27e09a2c3d94c11f4c412f1195a616ac3202d524714a6b0b99a83a",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/itemtable_5b354cbe.8oFFtmQCq1dTsTEpIY12Cv8QLhc~3D",
+      "file": "assets/itemtable_5b354cbe.8oFFtmQCq1dTsTEpIY12Cv8QLhc~3D",
+      "size": 62850,
+      "sha256": "4b32169f2725877ea954cf469c2743b9b87459fd95223f4866350bd99b2acb8f",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/cache_res.qdAaqZ~2B6EL0nHqjAb8yHSE0GLqQ~3D",
+      "file": "assets/cache_res.qdAaqZ~2B6EL0nHqjAb8yHSE0GLqQ~3D",
+      "size": 13294,
+      "sha256": "2d9892f3e56efafe82e9166e45b574e6f2b2b1e426e0b9b430dae378f8b38553",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ob55_4.fKBVT5sVGRK9BHDmdlmJXxdmQp4~3D",
+      "file": "assets/ob55_4.fKBVT5sVGRK9BHDmdlmJXxdmQp4~3D",
+      "size": 94366,
+      "sha256": "31c61d49894bc52f2be3c058819b6443af4a079f605509aad25f284a7d479c4d",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ob55_3.TL~2F6~2FDSrdZ8ViXGenNSkP4x77cs~3D",
+      "file": "assets/ob55_3.TL~2F6~2FDSrdZ8ViXGenNSkP4x77cs~3D",
+      "size": 719954,
+      "sha256": "4bc0c9d65f4131af3dbce2c2c8789145a5b59bc0edc61ed44268f40ce8f6aec1",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/buffeca_54295235.2QLxV5~2FtEk7S2oGzmeebLrEnemY~3D",
+      "file": "assets/buffeca_54295235.2QLxV5~2FtEk7S2oGzmeebLrEnemY~3D",
+      "size": 19133,
+      "sha256": "75d18b6ec3aeef8a49d0b8aac51b44410d7a8b76cac19071410ef66c4f5eaf99",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/secondweapontable_b699c571.tKkup69f9CYpfbAAHHgcy~2BvuW3g~3D",
+      "file": "assets/secondweapontable_b699c571.tKkup69f9CYpfbAAHHgcy~2BvuW3g~3D",
+      "size": 2477,
+      "sha256": "e63c1ea6c0a691da4356db886c04394938e68112fd0d0c71c19db853c604202e",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/gameassetbundles.4MxWjl~2Be10ElnBZDJM4EmX~2Bp1k4~3D",
+      "file": "assets/gameassetbundles.4MxWjl~2Be10ElnBZDJM4EmX~2Bp1k4~3D",
+      "size": 4099,
+      "sha256": "43cdf07f8f2051efe6a4932bfce54fff57aab6a3800cd9d237ad747c16631774",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ob55_2.E~2FiWhWUaKRPd3rn8nmUFA9MGnn4~3D",
+      "file": "assets/ob55_2.E~2FiWhWUaKRPd3rn8nmUFA9MGnn4~3D",
+      "size": 1416982,
+      "sha256": "75fa179a2569a55b7c568622b669bb0ba84404d9b670c47d51a82d595f0ce787",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ffisettingpiccdnexchange_34fd709a.PyrCSh963ihoKb6bRIdv1Nn0g~2F0~3D",
+      "file": "assets/ffisettingpiccdnexchange_34fd709a.PyrCSh963ihoKb6bRIdv1Nn0g~2F0~3D",
+      "size": 1534,
+      "sha256": "2975e08ba66fa0c5a0f2e5215f40678bd859c41e261149cc8d279ed70854a8ad",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/preloadconf.AuA3~2FrFE9sis83aKT3f0jBpELY4~3D",
+      "file": "assets/config/preloadconf.AuA3~2FrFE9sis83aKT3f0jBpELY4~3D",
+      "size": 10886,
+      "sha256": "49e6ce7d26c689eb60f5182635cded1c66659c174647029782089c228e7582d1",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/clothesrecipesbytes.HqRTN1Q6cKPZDCSCnmgGgq3dUgg~3D",
+      "file": "assets/config/clothesrecipesbytes.HqRTN1Q6cKPZDCSCnmgGgq3dUgg~3D",
+      "size": 378222,
+      "sha256": "3d6c56a4dac42b01cce9d75927bcfec7c9c81b3fcfc3c6c28a0f0627d07b16fd",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/clothesslotoverlays.e0NHGVj7EDYKqcmx~2BzqVAma2zrE~3D",
+      "file": "assets/config/clothesslotoverlays.e0NHGVj7EDYKqcmx~2BzqVAma2zrE~3D",
+      "size": 530795,
+      "sha256": "03b4aa75690846421f47a6ed967e56c86e0c35bf23ec95da77d9855c1d3e42e4",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/resconfhotupdate.q9vaiZcn17m9~2F7sQu~2Bg5pNs2ClA~3D",
+      "file": "assets/config/resconfhotupdate.q9vaiZcn17m9~2F7sQu~2Bg5pNs2ClA~3D",
+      "size": 3296,
+      "sha256": "49e078e453388616283966d5e9645c55e071a2db4b6dac3c9fb3d18f32b124ab",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/clothesrecipes.9SZ8b0m6WJl5sgEkIlmW~2FzzfHYw~3D",
+      "file": "assets/config/clothesrecipes.9SZ8b0m6WJl5sgEkIlmW~2FzzfHYw~3D",
+      "size": 948,
+      "sha256": "cc22faaba950f463197c540bed284e4a58f5a1f7e3cde3d043fac99bd2fb62c8",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/codepatch/assembly-csharp-patch.5IWiFu83rPWIRVYtv6GsGwr1HPE~3D",
+      "file": "assets/codepatch/assembly-csharp-patch.5IWiFu83rPWIRVYtv6GsGwr1HPE~3D",
+      "size": 32390,
+      "sha256": "07a061283751619fcddb00445411383a695bb2d8a3d013c14986e9bf326e2ec5",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatar/assetindexer.sfZimvJYUA6SYV~2FuPVzJdoO3REo~3D",
+      "file": "assets/avatar/assetindexer.sfZimvJYUA6SYV~2FuPVzJdoO3REo~3D",
+      "size": 14096,
+      "sha256": "68ee9ca5525a4e4b12909cb538443c82e00063734fde83888529d3f38728b53c",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/main/gameentry.W7LbjtHzWTeRF8e27oylvSTBqo4~3D",
+      "file": "assets/main/gameentry.W7LbjtHzWTeRF8e27oylvSTBqo4~3D",
+      "size": 3667,
+      "sha256": "043b9dd2fa7dd58af1fdc793adcf62daf0999b432ffe6bf79f9ff4a67270c66f",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/localization/lochotfix.zLAhXL~2F5prDj4c1ALWiDAlQqXrk~3D",
+      "file": "assets/localization/lochotfix.zLAhXL~2F5prDj4c1ALWiDAlQqXrk~3D",
+      "size": 277246,
+      "sha256": "6c315c5d9268c5b43a29d3609a710eda5b1beeadb3df0da4bef2b98099c3b26d",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/localization/locabconf.vpPESFs~2ByIsBvd2cXm2WB1CS1YU~3D",
+      "file": "assets/localization/locabconf.vpPESFs~2ByIsBvd2cXm2WB1CS1YU~3D",
+      "size": 1286,
+      "sha256": "3b6c9154fe5ec953bd63a6f268ebe9d374b2778c80e68feed866d02d2b285fe0",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_hair/male_hat_cos_id_idol54_overlay.3Ax5Sco3OvVegJSpqs6LSVPsrRc~3D",
+      "file": "assets/avatarassets/wardrobe_hair/male_hat_cos_id_idol54_overlay.3Ax5Sco3OvVegJSpqs6LSVPsrRc~3D",
+      "size": 55411,
+      "sha256": "6e25f2dd8a98a18f99896d501f0078a35c20b5140bf3de0bef302b7cf4e58fe6",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_0_slot.Le35uW6bqd26h1dES90DsKMXYls~3D",
+      "file": "assets/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_0_slot.Le35uW6bqd26h1dES90DsKMXYls~3D",
+      "size": 45613,
+      "sha256": "0728c9f4e3b86a1bb789c5bbfdd5aa75572c1d93bebe5ab60fa995141b8d4e7e",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_n_1_slot.vJWd8fv~2F5KCE9zfzcdGHFzVakqM~3D",
+      "file": "assets/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_n_1_slot.vJWd8fv~2F5KCE9zfzcdGHFzVakqM~3D",
+      "size": 66730,
+      "sha256": "ea0944a0ca27913fe2603546d046b60ecc99783cc6f5ec60ae4a0bd7a12b4df9",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_n_0_slot.BXWEjhlSwjgo~2B2Nb9~2BivHGFaOYQ~3D",
+      "file": "assets/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_n_0_slot.BXWEjhlSwjgo~2B2Nb9~2BivHGFaOYQ~3D",
+      "size": 66064,
+      "sha256": "0fafe4a5b2ec5b5f0b18380afb393a5fe32d415a71701431dbaa29af51ec92b8",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_1_slot.sDZgnnsCwWeIUq3BGjqR7nUnltQ~3D",
+      "file": "assets/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_1_slot.sDZgnnsCwWeIUq3BGjqR7nUnltQ~3D",
+      "size": 45637,
+      "sha256": "f293c61008c19ab5ea3f2c2efa65857bf8fdeb89fde57b69c58589b71692189d",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_overlay_n.JLjEMYIMh~2B4DnXb~2F~2B4gWgR~2FAeZE~3D",
+      "file": "assets/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_overlay_n.JLjEMYIMh~2B4DnXb~2F~2B4gWgR~2FAeZE~3D",
+      "size": 56687,
+      "sha256": "62bf721d35d62c278099e15f6b57dc8e088b58e12fc6c27ce7f068b5db682542",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_hair/male_hat_cos_id_idol54_overlay_n.MwetxpXYUfO7g983~2Fqz8Am1JIJY~3D",
+      "file": "assets/avatarassets/wardrobe_hair/male_hat_cos_id_idol54_overlay_n.MwetxpXYUfO7g983~2Fqz8Am1JIJY~3D",
+      "size": 78279,
+      "sha256": "36ba5079e17b63ef255c82c709c4aaa21b7c641e44ebe6a32f7e23c7fc452e87",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_overlay.WA6MlZNGUuLrlgIfBNrPLfpWR9Y~3D",
+      "file": "assets/avatarassets/wardrobe_hair/male_hair_cos_id_idol54_overlay.WA6MlZNGUuLrlgIfBNrPLfpWR9Y~3D",
+      "size": 51924,
+      "sha256": "7e4bf3b66c461b95be536e0c6805031153cbb00d91217e6862729e9c436f7620",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_shoes/female_shoe_cos_nb1re_ct_white_n_slot.aOTetRS0dZzLgMom8xwb6WvGWOQ~3D",
+      "file": "assets/avatarassets/wardrobe_shoes/female_shoe_cos_nb1re_ct_white_n_slot.aOTetRS0dZzLgMom8xwb6WvGWOQ~3D",
+      "size": 49535,
+      "sha256": "db70a791ddd29c6650f5aac60d6451f78d7b90f4f91a446e161e35e168c8b324",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_shoes/female_shoe_cos_nb1re_ct_white_slot.B1huc8~2BJAIiGY5MhDqZYnnGOric~3D",
+      "file": "assets/avatarassets/wardrobe_shoes/female_shoe_cos_nb1re_ct_white_slot.B1huc8~2BJAIiGY5MhDqZYnnGOric~3D",
+      "size": 40994,
+      "sha256": "c3002a1145ee9909cd3ef8a42aaa580d24910237e02ab30f71c0703e500e6515",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/ob55/male_bottom_cos_blackdress26_overlay_n.~2BEOG116Z~2FP3sinrFj7JaBFxvhzQ~3D",
+      "file": "assets/avatarassets/ob55/male_bottom_cos_blackdress26_overlay_n.~2BEOG116Z~2FP3sinrFj7JaBFxvhzQ~3D",
+      "size": 154068,
+      "sha256": "efdf2eed5d7d2005105bb385d6b7e147e7c2d0cce1bb9d522c48a1f1c8f004ac",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/ob55/male_bottom_cos_blackdress26_1_slot.a4AkqawaWFn03U1WFGCwppw1Eno~3D",
+      "file": "assets/avatarassets/ob55/male_bottom_cos_blackdress26_1_slot.a4AkqawaWFn03U1WFGCwppw1Eno~3D",
+      "size": 41102,
+      "sha256": "0a2dd1e153533836ea3c0f75604bee2af2f63cc79bb49167cc1425b5818e75f8",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/ob55/male_bottom_cos_blackdress26_0_slot.n63J91azfPeFCnF1lz92YOdeO3w~3D",
+      "file": "assets/avatarassets/ob55/male_bottom_cos_blackdress26_0_slot.n63J91azfPeFCnF1lz92YOdeO3w~3D",
+      "size": 41157,
+      "sha256": "862067ffa8971615a0d1efdf540c5246d937edc18a0fc2bd9e311c910aec0fd2",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/ob55/male_bottom_cos_blackdress26_n_0_slot.PV2OosT3Vy0b5XzSjwodTRvfEzc~3D",
+      "file": "assets/avatarassets/ob55/male_bottom_cos_blackdress26_n_0_slot.PV2OosT3Vy0b5XzSjwodTRvfEzc~3D",
+      "size": 62592,
+      "sha256": "c2e94eaacae07349d70ac9474649b83cb8480567fc06d209d0f8297f19d7b10f",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/ob55/male_bottom_cos_blackdress26_n_1_slot.BWT5fsE8ZUXKuGMRYTC0nCAuB9Y~3D",
+      "file": "assets/avatarassets/ob55/male_bottom_cos_blackdress26_n_1_slot.BWT5fsE8ZUXKuGMRYTC0nCAuB9Y~3D",
+      "size": 60339,
+      "sha256": "f940a367f6c6a37784a3a01c5f0e37c04a56fbdc7b72142eab42b8e0aaf70f24",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/ob55/male_bottom_cos_blackdress26_overlay.yn8d5ntz0yQldq2Gta1fC1LHh~2Bs~3D",
+      "file": "assets/avatarassets/ob55/male_bottom_cos_blackdress26_overlay.yn8d5ntz0yQldq2Gta1fC1LHh~2Bs~3D",
+      "size": 104007,
+      "sha256": "32a4567ebe6051ee8afb51c4ad7143a32cbd39797ae20f8dc4e706615cf0dd0d",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_pants/female_bottom_cos_nb1re_ct_white_overlay_n.e3rdHlhrrB7HaWUtVMa0YlugfJU~3D",
+      "file": "assets/avatarassets/wardrobe_pants/female_bottom_cos_nb1re_ct_white_overlay_n.e3rdHlhrrB7HaWUtVMa0YlugfJU~3D",
+      "size": 64148,
+      "sha256": "1b0a63201aa987ed6b42a26cff114647e4ca1f6f2a092d0993624cdd340b5fcc",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/avatarassets/wardrobe_pants/female_bottom_cos_nb1re_ct_white_overlay.J~2FE~2B2~2B5ELXlwClpbsWWGMV5Sflc~3D",
+      "file": "assets/avatarassets/wardrobe_pants/female_bottom_cos_nb1re_ct_white_overlay.J~2FE~2B2~2B5ELXlwClpbsWWGMV5Sflc~3D",
+      "size": 64110,
+      "sha256": "a0e7983b4c0a9c0612e8d4a3bfb072d8a9a7f335007e92852c379d1002468b58",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/splitedresconfs/baseresconf.HMGZggE~2BmG7UFIJNpcr2nQP5HNk~3D",
+      "file": "assets/config/splitedresconfs/baseresconf.HMGZggE~2BmG7UFIJNpcr2nQP5HNk~3D",
+      "size": 10275,
+      "sha256": "d4d38bb9e53bbeef5dc9cb22f1c3ff1dfe91d96857becd83c0682c8a56d36297",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/splitedresconfs/uiresconf.7N4BHX~2FC7qH9Indt2QJgVTBfbfw~3D",
+      "file": "assets/config/splitedresconfs/uiresconf.7N4BHX~2FC7qH9Indt2QJgVTBfbfw~3D",
+      "size": 264557,
+      "sha256": "55a44f3c61dee32b4e0ee042763cffa3ecde1654b51602bb263eff206b860afc",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/splitedresconfs/partialresconf.Q131M42ZulqK558VTND9Uhq46Y8~3D",
+      "file": "assets/config/splitedresconfs/partialresconf.Q131M42ZulqK558VTND9Uhq46Y8~3D",
+      "size": 517920,
+      "sha256": "337e1a43ced35d4c40d86904eaf9150187f219b8d1e164b780b832c327c5a9fd",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/config/splitedresconfs/resconfstrs.uKQs~2BSRjs0Rpqx23Vr2pRTfoYsU~3D",
+      "file": "assets/config/splitedresconfs/resconfstrs.uKQs~2BSRjs0Rpqx23Vr2pRTfoYsU~3D",
+      "size": 453908,
+      "sha256": "69349636284f352a3219ab066f89ae01ec5e8a1e6d17e79ce38c9bb46655b61f",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ingame/dynamicgenerator/fakehipporeformbldcollider_group_ab.~2FvWd7mSSubWBw88k0hreKcdgNH4~3D",
+      "file": "assets/ingame/dynamicgenerator/fakehipporeformbldcollider_group_ab.~2FvWd7mSSubWBw88k0hreKcdgNH4~3D",
+      "size": 3428,
+      "sha256": "deb1a74361be3b50e0c673a07755710c20aa26ceaf2cac559626b365a14c30e2",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "route": "/ios/1.132.11/gameassetbundles/ui/atlas/hotfix/ui_hotfix_icon_99.y~2FSwb1Jl6T7B8v3kxpbJ1ZgOtvQ~3D",
+      "file": "assets/ui/atlas/hotfix/ui_hotfix_icon_99.y~2FSwb1Jl6T7B8v3kxpbJ1ZgOtvQ~3D",
+      "size": 19149,
+      "sha256": "d1b319ff86b399d4d750047aa1fad5f207d461daedfe4224ef26964c058d6e80",
+      "contentType": "application/octet-stream"
+    }
+  ]
+}
