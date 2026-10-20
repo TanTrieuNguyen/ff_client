@@ -6,6 +6,8 @@
   "scripts": {
     "start": "node server.cjs",
     "test": "node --test test.cjs",
-    "proxypin": "node generate-proxypin.cjs"
+    "proxypin": "node generate-proxypin.cjs",
+    "prepare:raw": "node prepare-raw.cjs",
+    "proxypin:raw": "node generate-raw-proxypin.cjs"
   }
 }

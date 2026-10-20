@@ -7,6 +7,34 @@ const vm = require('node:vm');
 const crypto = require('node:crypto');
 const { createServer, rangeFor } = require('./server.cjs');
 const { generate } = require('./generate-proxypin.cjs');
+const { generateRaw } = require('./generate-raw-proxypin.cjs');
+
+test('static export matches all original routes and bytes', () => {
+  const index = JSON.parse(fs.readFileSync(path.join(__dirname, 'data/index.json')));
+  assert.equal(index.files.length, 72);
+  for (const item of index.files) {
+    const bytes = fs.readFileSync(path.join(__dirname, 'raw', item.route.slice(1)));
+    assert.equal(bytes.length, item.size);
+    assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'), item.sha256);
+  }
+});
+
+test('Raw rule pins the asset commit and preserves unrelated responses', () => {
+  const sha = 'a'.repeat(40);
+  const context = {};
+  vm.createContext(context);
+  vm.runInContext(generateRaw(sha)[0].script, context);
+  const request = { path: '/live/config' };
+  const body = JSON.stringify({ abhotupdate_cdn_url: 'old', untouched: true });
+  const result = JSON.parse(context.onResponse({}, request, { body }).body);
+  assert.equal(result.abhotupdate_cdn_url, `https://raw.githubusercontent.com/TanTrieuNguyen/ff_client/${sha}/raw/`);
+  assert.equal(result.untouched, true);
+  assert.equal(context.onRequest({}, request), request);
+  for (const [requestPath, text] of [['/other', body], ['/live/x', 'invalid'], ['/live/x', '{"foo":1}']]) {
+    assert.equal(context.onResponse({}, { path: requestPath }, { body: text }).body, text);
+  }
+  for (const invalid of ['', 'main', '../main', 'https://example.com']) assert.throws(() => generateRaw(invalid));
+});
 
 test('range bounds', () => {
   assert.deepEqual(rangeFor('bytes=0-', 10), { start: 0, end: 9 });

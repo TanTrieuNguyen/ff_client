@@ -1,5 +1,24 @@
 # Hot-update mirror for Render
 
+## GitHub Raw (HTTPS, no running Mac or Render required)
+
+Import `proxypin-raw.json` from this repository into ProxyPin. Disable the old
+MinDo/local/Render rewrite rule so it does not overwrite the same configuration.
+This separate rule uses a fixed asset commit and the `raw/` directory; it does not
+use the Node server's `/_abhu/?p=` route. License checks remain unchanged.
+
+Static paths are `raw/ios/1.132.11/fileinfo` and
+`raw/ios/1.132.11/gameassetbundles/<name>.<encoded-hash>`.
+The files are byte-identical to `data/`; compressed bytes must not be unpacked or renamed.
+
+To update: run `npm run prepare:raw`, run `npm test`, commit the static assets,
+then run `node generate-raw-proxypin.cjs <full-asset-commit-sha>` and commit the
+new JSON separately. Do not put GitHub access tokens in the JSON.
+
+Raw hosting does not run backend code or license APIs. Compatibility still needs
+an iPhone/game test; cache and range behavior can differ from the Node server.
+The existing `proxypin.json` and Render configuration remain available separately.
+
 **This is a mirror of the captured files, NOT an unlocked patch. License checks remain unchanged.**
 The original download directory and license-test backups are not modified.
 
